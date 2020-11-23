@@ -2,7 +2,8 @@
 If a sentence flows, the first letter of each word will be the same to the last letter of the previous word.  
  
 Task: 
-Write a program that takes in a string that contains a sentence, checks if the first letter of each word is the same as the last letter of the previous word. 
+Write a program that takes in a string that contains a sentence, checks if the first letter of each word is 
+the same as the last letter of the previous word. 
 If the condition is met, output true, if not, output false.  
 Casing does not matter. 
  
