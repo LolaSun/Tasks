@@ -1,6 +1,8 @@
 """
-The CMYK color model is the standard in the printing industry and refers to the primary colors of pigment: Cyan, Magenta, Yellow, and Black.  
-K stands for 'Key' since in 4-color printing the Cyan, Magenta and Yellow printing plates are carefully keyed or aligned with the key of the Black key plate. 
+The CMYK color model is the standard in the printing industry and refers to the primary colors of pigment: 
+Cyan, Magenta, Yellow, and Black.  
+K stands for 'Key' since in 4-color printing the Cyan, Magenta and Yellow printing plates are carefully keyed 
+or aligned with the key of the Black key plate. 
 RGB (Red, Green and Blue) is the color space for digital images. 
 A CMYK color can be converted to RGB using the following equations: 
 R = 255 × (1-C) × (1-K) 
