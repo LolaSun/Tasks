@@ -15,7 +15,8 @@ Input Format:
 A string containing the credit card number you need to verify. 
  
 Output Format: 
-A string: 'valid' in case the input is a valid credit card number (passes the Luhn test and is 16 digits long), or 'not valid', if it's not. 
+A string: 'valid' in case the input is a valid credit card number (passes the Luhn test and is 16 digits long), or 'not valid', 
+if it's not. 
  
 Sample Input: 
 4091131560563988 
